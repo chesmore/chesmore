@@ -6,7 +6,7 @@ Analytics Engineer | San Francisco, CA
 
 ## 🛠️ Skills  
 
-- **Programming Languages**: Python, SQL
+- **Programming Languages**: Python, SQL, Linux
 - **Frameworks/Tools**: dbt, dagster, git, gitlab CI/CD, Airbyte, MKDocs
 - **Databases**: PostgreSQL, MongoDB
 - **Data Analysis & Visualization:** Python (pandas, numpy, scikit-learn), Tableau, Metabase, Grafana

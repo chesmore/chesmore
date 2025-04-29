@@ -33,7 +33,6 @@ _2019 – 2023_
 
 ## 🏆 Achievements & Certifications  
 
-- **SQL for Data Science**: UC Davis Coursera — 2024
 - **Department of Energy Science Graduate Student Research Fellowship** — 2022
 - **National Science Foundation Graduate Research Fellow** — 2018
 - **NASA Space and Technology Research Fellowship** — 2018

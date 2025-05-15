@@ -4,7 +4,7 @@ Analytics Engineer | San Francisco, CA
 
 ---
 
-## 🛠️ Skills  
+## Skills  
 
 - **Programming Languages**: Python, SQL, Linux
 - **Frameworks/Tools**: dbt, dagster, git, gitlab CI/CD, Airbyte, MKDocs
@@ -13,7 +13,7 @@ Analytics Engineer | San Francisco, CA
 
 ---
 
-## 💼 Professional Experience  
+## Professional Experience  
 
 ### Analytics Engineer | Ayar Labs 
 _2023 – present_  
@@ -23,7 +23,7 @@ _2019 – 2023_
 
 ---
 
-## 📚 Education  
+## Education  
 
 - **Ph.D. in Physics**, University of California — 2023  
 - **M.S. in Physics**, University of Michigan — 2019 
@@ -31,7 +31,7 @@ _2019 – 2023_
 
 ---
 
-## 🏆 Achievements & Certifications  
+## Achievements & Certifications  
 
 - **Department of Energy Science Graduate Student Research Fellowship** — 2022
 - **National Science Foundation Graduate Research Fellow** — 2018

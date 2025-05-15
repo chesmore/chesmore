@@ -1,15 +1,6 @@
 # Grace Chesmore [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-chesmore/)
 
-Analytics Engineer | San Francisco, CA
-
----
-
-## Skills  
-
-- **Programming Languages**: Python, SQL, Linux
-- **Frameworks/Tools**: dbt, dagster, git, gitlab CI/CD, Airbyte, MKDocs
-- **Databases**: PostgreSQL, MongoDB
-- **Data Analysis & Visualization:** Python (pandas, numpy, scikit-learn), Tableau, Metabase, Grafana
+Analytics Engineer | Boston, MA
 
 ---
 

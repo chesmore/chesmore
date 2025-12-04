@@ -16,7 +16,7 @@ _2019 – 2023_
 
 ## Education  
 
-- **Ph.D. in Physics**, University of California — 2023  
+- **Ph.D. in Physics**, University of Chicago — 2023  
 - **M.S. in Physics**, University of Michigan — 2019 
 - **B.A. in Physics**, Santa Clara University — 2017
 
